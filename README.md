@@ -10,6 +10,8 @@ Course:- Computer Networks Lab
 
 CourseCode: ENCS304
 
+Github link:- [Assignment Link](https://github.com/UditAnand85/Assignment-4-Computer-Networks)
+
 
 ## 🔹 Overview
 This assignment demonstrates the setup of a **DNS Server** using Cisco Packet Tracer and analyzes how domain names are resolved into IP addresses within a local network.
